@@ -1,1 +1,1 @@
-console.loq("Hola Git - segunda version");
+console.loq("Hola desde GITHUB");
